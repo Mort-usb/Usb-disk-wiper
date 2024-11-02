@@ -1,0 +1,15 @@
+list disk
+select disk 0 
+clean disk 0
+list disk
+select disk 1
+clean disk 1
+list disk
+select disk 2
+clean disk 2
+list disk
+select disk 3
+clean disk 3
+list disk
+select disk 4
+clean disk 4
